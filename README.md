@@ -1,3 +1,3 @@
-Code of the project of the Foundations of Programming course
+Code of the 2 projects of the Foundations of Programming course
 
 
