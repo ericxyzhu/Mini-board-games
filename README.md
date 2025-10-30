@@ -1,3 +1,3 @@
-Here are my works during the first half semester of my first year of Computer Science degree, studying Python.
+Code of the project of the Foundations of Programming course
 
-Both files are board games that exist in real world.
+
